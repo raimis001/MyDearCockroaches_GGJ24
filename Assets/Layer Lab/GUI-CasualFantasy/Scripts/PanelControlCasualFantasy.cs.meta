@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cb864fc5e4ef149ffb9093570ad3af4a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265651
+  packageName: GUI - Casual Fantasy
+  packageVersion: 1.2.2
+  assetPath: Assets/Layer Lab/GUI-CasualFantasy/Scripts/PanelControlCasualFantasy.cs
+  uploadId: 634500
